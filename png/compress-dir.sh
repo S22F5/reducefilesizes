@@ -1,0 +1,1 @@
+mogrify -quality 50 *.png
