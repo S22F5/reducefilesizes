@@ -1,3 +1,11 @@
 # reducefilesizes
-## Reduces flac, png, jpeg, gif, pdf Files
-<b><i>Warning!!!Overwrites files!!!Warning
+
+## About
+Reduces flac, png, jpeg, gif, pdf Files
+
+## Usage
+#### Warning: Overwrites files!
+Run ./compress-dir.sh
+
+
+
